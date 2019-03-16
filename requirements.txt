@@ -1,0 +1,9 @@
+alpha_vantage
+matplotlib
+plotly
+Pillow
+bokeh 
+pydot 
+scikit-learn
+nltk 
+scrapy
